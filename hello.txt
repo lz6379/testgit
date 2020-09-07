@@ -1,1 +1,2 @@
 hello word!
+int i=1
